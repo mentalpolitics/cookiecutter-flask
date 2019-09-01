@@ -2,6 +2,8 @@
 
 Goal: To build a cookiecutter that better is a fit for defaults.
 
+This right now is meant for a WSGI production environment.
+
 # TODO
 
 This will be updated.
@@ -18,6 +20,8 @@ UPCOMING
 
 ```sh
 cookiecutter https://github.com/buzzlaker/cookiecutter-flask
+cd PROJECT_NAME
+python application.py
 ```
 
 ## Built With
